@@ -1,0 +1,8 @@
+{
+  "name": "bro",
+  "description": "Restate the last message in plain human language, with no jargon.",
+  "version": "0.1.0-pre.1",
+  "author": {
+    "name": "Karsten Silkenbäumer"
+  }
+}

@@ -4,6 +4,9 @@
     "name": "Karsten Silkenbäumer",
     "url": "https://github.com/kassi"
   },
+  "metadata": {
+    "version": "1.1.0-pre.1"
+  },
   "plugins": [
     {
       "name": "op-plugin-wrapper",
@@ -30,6 +33,19 @@
       "repository": "https://github.com/kassi/personal-claude-plugins",
       "license": "MIT",
       "keywords": ["git", "commit", "conventional-commits", "commitizen", "conventional-git"]
+    },
+    {
+      "name": "bro",
+      "source": "./plugins/bro/",
+      "description": "Restate the last message in plain human language, with no jargon.",
+      "author": {
+        "name": "Karsten Silkenbäumer",
+        "url": "https://github.com/kassi"
+      },
+      "homepage": "https://github.com/kassi/personal-claude-plugins",
+      "repository": "https://github.com/kassi/personal-claude-plugins",
+      "license": "MIT",
+      "keywords": ["bro", "plain-language", "jargon", "simplify"]
     }
   ]
 }
